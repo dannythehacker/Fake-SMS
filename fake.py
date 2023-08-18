@@ -30,9 +30,10 @@ Write.Print("""
       ░  ░        ░    ░ ░          ░░ ░           ░      ░ ░    ░          ░           ░        ░        ░  
                                      ░ ░ 
                        __________________________________              
-                      |Author:  Akmenrah :)              |
-                      |Instgram: gheris__579_            |
-                      |Github: Gheris-579                |
+                      |Author:  DannyGaming1216 :)       |
+                      |NetWork: Titan-Community          |
+                      |Github: dannythehacker            |
+                      | Thanks to  Gheris and Akmenrah:) |
                       |__________________________________|               
 \n""",Colors.blue_to_red, interval=0.01)
 
